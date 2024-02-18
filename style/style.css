@@ -1706,11 +1706,10 @@ margin-left: 625px;
 /* media */
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 366px) {
     body{
         width: 366px;
         height: 100%;
-        background-color: red;
     }
     .conteiner{
         width: 424px;
